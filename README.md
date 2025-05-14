@@ -48,12 +48,15 @@ A simple Flutter application that showcases a **travel profile card** UI with pe
 
 lib/
 ├── main.dart          # Main UI and logic
+
 assets/
+
 └── images/
-└── nai\_image.jpg  # Profile image used in card
+
+└── nai\_image.jpg  
+# Profile image used in card
 
 ````
-
 ---
 
 ## 🛠️ Getting Started
