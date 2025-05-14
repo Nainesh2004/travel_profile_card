@@ -43,18 +43,20 @@ A simple Flutter application that showcases a **travel profile card** UI with pe
 ---
 
 ## 📂 Project Structure
+lib/
+
+  ├── main.dart          # Main UI and logic
+
+    assets/
+
+      └── images/
+
+          └── nai\_image.jpg  
+
+# Profile image used in card
 
 ```
 
-lib/
-├── main.dart          # Main UI and logic
-
-assets/
-
-└── images/
-
-└── nai\_image.jpg  
-# Profile image used in card
 
 ````
 ---
@@ -65,6 +67,7 @@ assets/
    ```bash
    git clone <repository-url>
    cd travel_profile_card
+  ```
 ````
 
 2. **Add dependencies**:
