@@ -58,9 +58,6 @@ lib/
 ```
 
 
-````
----
-
 ## 🛠️ Getting Started
 
 1. **Clone this repo**:
@@ -68,7 +65,7 @@ lib/
    git clone <repository-url>
    cd travel_profile_card
   ```
-````
+
 
 2. **Add dependencies**:
 
